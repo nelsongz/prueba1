@@ -8,7 +8,7 @@
   const arrayFrutas = ["🍎", "🍌", "🍉", "🍓", "🍒"]
   const arrayObjFrutas = [
         {
-            name: "Manzana",
+            name: "Manzanas",
             price: "$1.00",
             description: "Una manzana",
             stock: 0
